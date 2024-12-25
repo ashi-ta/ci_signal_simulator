@@ -194,10 +194,8 @@ python main.py \
 
 - `file.scp`, `file.ark`, and `text` files would be generated in the `tmp` directory and can be read via `kaldiio`
 
-## Citation (TBD)
-
-- TBD
+## Citation
 
 ```
-Takanori Ashihara, Shigeto Furukawa, Makio Kashino, "F0 Estimation from Simulated Cochlear-implant Signals by Using a Deep Neural Networks", 2022
+Ashihara T, Furukawa S, Kashino M. Estimating Pitch Information From Simulated Cochlear Implant Signals With Deep Neural Networks. Trends in Hearing. 2024;28. doi:10.1177/23312165241298606
 ```
